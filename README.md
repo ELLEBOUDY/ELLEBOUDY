@@ -1,31 +1,43 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elleboudy</h1>
 
 <h3 align="center">
-Front-End Developer & UI/UX Designer | DEBI Scholar | Published Researcher
+🚀 Front-End Developer | React Specialist | UI/UX Designer
 </h3>
 
----
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;UI%2FUX+Designer;React+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <a href="https://linkedin.com/in/mahmoud-elleboudy-30106224b">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Elleboudy-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:modirlelleboudy902@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 BSc in Computer Science (Cloud & Mobile Computing)  
-- 🏫 Canadian International College (GPA: 3.3)  
-- 🏛️ DEBI Scholar @ MCIT Egypt  
-- 📄 Published Researcher @ AICV 2025 (Springer)  
-- 💼 Front-End Intern @ CodeAlpha  
-- 💻 Freelancer @ KashCool  
-- 🌱 Currently learning **Advanced React & Full Stack**  
+💡 Passionate Front-End Developer focused on building modern, responsive, and user-friendly web applications.
+
+🎓 Computer Science Student (Cloud & Mobile Computing)  
+🏛️ DEBI Scholar @ MCIT Egypt  
+📄 Published Researcher (AI & Computer Vision)  
+💼 Front-End Developer (Intern + Freelance)  
+
+🔥 I love turning ideas into real-world interactive experiences.
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 What I Do
+
+- ⚡ Build responsive websites using React & Tailwind
+- 🎨 Design clean and modern UI/UX
+- 🧠 Solve real-world problems with code
+- 📱 Optimize performance and user experience
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,mysql,figma,git,github" />
@@ -33,11 +45,27 @@ Front-End Developer & UI/UX Designer | DEBI Scholar | Published Researcher
 
 ---
 
-### 📊 GitHub Analytics
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Website
+✔️ Fully responsive  
+✔️ Cart & UI system  
+✔️ Clean UX design  
+
+👉 **Tech:** HTML, CSS, JavaScript  
+
+---
+
+### 🎨 UI/UX Design System
+✔️ Built using Figma  
+✔️ Focused on usability & accessibility  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELLEBOUDY&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=ELLEBOUDY&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ELLEBOUDY&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
@@ -46,60 +74,19 @@ Front-End Developer & UI/UX Designer | DEBI Scholar | Published Researcher
 
 ---
 
-### 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ELLEBOUDY&theme=react-dark"/>
+  <img src="https://github.com/ELLEBOUDY/ELLEBOUDY/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
+## 📫 Contact Me
+
+📧 modirlelleboudy902@gmail.com  
+🔗 LinkedIn: Mahmoud Elleboudy  
 
 ---
 
-### 📂 Featured Projects
-
-#### 🛒 E-Commerce Website
-- Tech: HTML, CSS, JavaScript
-- Features: Responsive UI, Cart System, Clean UX
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELLEBOUDY&repo=YOUR_REPO_NAME&theme=radical"/>
-</p>
-
-#### 🎨 UI/UX Design System
-- Built using Figma
-- Focus on modern UX principles
-
----
-
-### 📊 Project Language Breakdown
-
-> Example (Dynamic from GitHub)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEBOUDY&layout=pie&theme=radical"/>
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/mahmoud-elleboudy-30106224b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:modirlelleboudy902@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-### ✨ Fun Fact
-
-> "I turn ideas into real-world interactive experiences 💡"
-
----
-
-<p align="center">🔥 Thanks for visiting my profile 🔥</p>
+⭐ Always learning. Always building.
