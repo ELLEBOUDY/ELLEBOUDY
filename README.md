@@ -54,11 +54,6 @@ Front-End Developer & UI/UX Designer | DEBI Scholar | Published Researcher
 
 ---
 
-### 🐍 Contribution Snake (Animation 🔥)
-
-<p align="center">
-  <img src="https://github.com/ELLEBOUDY/ELLEBOUDY/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
