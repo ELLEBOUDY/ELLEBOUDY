@@ -40,28 +40,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Performance</h2>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ELLEBOUDY&show_icons=true&theme=react&hide_border=true&border_radius=10" height="195" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEBOUDY&layout=compact&theme=react&hide_border=true&border_radius=10" height="195" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELLEBOUDY&theme=react&hide_border=true&border_radius=10" width="820" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <h2 align="center">🌟 Featured Focus</h2>
 <table border="0" align="center">
   <tr>
